@@ -1,0 +1,44 @@
+*:hover {
+    /*l33t h4xer m000ve */
+    background-color: yellow;
+}
+
+#header {
+    background-color: #A8F0F0;
+    text-align: end;
+}
+
+#body {
+    border-radius: 10px;
+    border-color: white;
+    background-color: white;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif);
+}
+
+#item {
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    clear: both;
+}
+
+.spacer {
+    clear: both;
+}
+
+#item #image {
+    float: right;
+}
+
+#label {
+    font-size: 14pt;
+}
+
+#date {
+    border-bottom: 2px blue dashed;
+}
